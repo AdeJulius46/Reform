@@ -83,7 +83,7 @@ Carousel */
   .carousel-caption {
     width: 70%;
     position: absolute;
-    top: 30% !important;
+    top: 20% !important;
     right: 40% !important;
     transform: translateX(-10%);
     text-align: left;
@@ -94,7 +94,7 @@ Carousel */
  
 }
 .carousel-caption > h2{
-     font-size: 50px !important; 
+     font-size: 40px !important; 
     
 }
 .carousel-caption > h1{
@@ -237,15 +237,12 @@ para-fixtul{
         margin-top: 50px;
       }
       .foot{
-    background-color: rgb(13, 79, 202)  ;
+        background-color: rgb(13, 79, 202)  ;
         margin-top: 50px;
         margin-right: 40px;
       }
 
 
-      .footer-left{
-        margin-left: 20px;
-      }
       .nw-fixtul{
         margin: 50px;
         color: white;
@@ -266,3 +263,28 @@ para-fixtul{
     .col-white:hover{
         color: rgb(130, 103, 130);
     }
+
+
+
+    .social{
+        /* width: 95vw; */
+        margin-top:-21px ;
+        border-top: 0.5px solid rgb(139, 138, 138);
+        color: white;
+        padding-top: 5px;
+    }
+
+    .soc-fxt{
+        letter-spacing: 0.5px;
+        font-weight:500 ;
+    }
+
+    .soc-fxt-lo{
+        letter-spacing: 0.5px;
+        font-weight:500 ;
+        gap: 05px;
+    }
+    /* .you{
+     outline:  thick solid red; 
+     margin-left: 5px;
+    } */
